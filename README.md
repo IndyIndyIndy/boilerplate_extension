@@ -1,4 +1,4 @@
-# boilerplate_extension
+# TYPO3 Extension "boilerplate_extension"
 Minimal boilerplate TYPO3 extension for creating new TYPO3 extension projects.
 
 Replace the following text occurences:
